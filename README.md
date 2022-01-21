@@ -1,6 +1,6 @@
 # Rotina para treinamento,teste e validação para comparação de locutores.
 
-Utiliza as técnicas x-vector baseadas em RESNET.
+Utiliza as técnicas x-vector baseadas em TDNN.
 
 __autor:__ Adelino Pinheiro Silva
 __email:__ adelinocpp@yahoo.com
