@@ -1,0 +1,1 @@
+nodemon -e py --watch "." --exec python3 main.py
