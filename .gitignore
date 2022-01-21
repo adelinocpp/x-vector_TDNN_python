@@ -2,6 +2,8 @@
 *.png
 
 # Diretoriso de dados computados
+/bnf
+/data
 /feat_logfbank_nfilt40
 /LDA_saved
 /model_saved
@@ -21,3 +23,5 @@
 # Cache python
 /__pycache__
 
+# shell script
+*.sh
